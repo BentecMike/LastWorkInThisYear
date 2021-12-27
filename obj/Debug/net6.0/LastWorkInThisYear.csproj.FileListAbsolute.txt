@@ -1,0 +1,15 @@
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\LastWorkInThisYear.csproj.AssemblyReference.cache
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\LastWorkInThisYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\LastWorkInThisYear.AssemblyInfoInputs.cache
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\LastWorkInThisYear.AssemblyInfo.cs
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\LastWorkInThisYear.csproj.CoreCompileInputs.cache
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\bin\Debug\net6.0\LastWorkInThisYear.exe
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\bin\Debug\net6.0\LastWorkInThisYear.deps.json
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\bin\Debug\net6.0\LastWorkInThisYear.runtimeconfig.json
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\bin\Debug\net6.0\LastWorkInThisYear.dll
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\bin\Debug\net6.0\ref\LastWorkInThisYear.dll
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\bin\Debug\net6.0\LastWorkInThisYear.pdb
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\LastWorkInThisYear.dll
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\ref\LastWorkInThisYear.dll
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\LastWorkInThisYear.pdb
+C:\Users\mikhail.silonov\Desktop\Geekbrains\REPO\LastWorkInThisYear\obj\Debug\net6.0\LastWorkInThisYear.genruntimeconfig.cache
