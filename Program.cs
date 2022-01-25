@@ -2,45 +2,52 @@
 // Первоначальный массив можно ввести с клавиатуры, либо сгенерировать случайным образом. 
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
-void FillArray(int[] collection)
+//int[] mass = {-1, 3, 2, 10, 15};
+//string[] mass = {"hello", "2", "world", ":-)"};
+
+void FillArray(int[] mass)
 {
-    int length = collection.Length;
+    int length = mass.Length;
     int index = 0;
     while (index < length)
     {
-        collection[index] = new Random().Next(20);
+        mass[index] = new Random().Next(20);
         index++;
     }
 }
 
-void PrintArray(int[] col)
+void PrintArray(int[] mass)
 {
-    int count = col.Length;
+    int count = mass.Length;
     int position = 0;
     while (position < count)
     {
-        Console.Write($"{col[position]} ");
+        Console.Write($"{mass[position]} ");
         position++;
     }
 }
 
-void CheckNumbers(int[] mass)
+int[] Checkmass(int[] mass)
 {
     int[] massNew = new int[mass.Length];
-    for (int i = 0; i < massNew.Length; i++)
-    {
-        massNew[i] = mass[i];
-        if (massNew[i] % 2 == 0)
-        {
-            Console.Write($"{massNew[i]} ");
+    for (int i = 0; i < mass.Length; i++)
+    { 
+        if(mass[i] % 2 == 0) 
+        {   
+            massNew[i] = mass[i];
         }
-    }
+    }    
+    return massNew;
 }
 
-int[] mass = new int[5];
+int[] mass = new int[20];
 FillArray(mass);
 PrintArray(mass);
+Checkmass(mass);
 Console.WriteLine();
-Console.Write($"Четные числа в массиве mass: ");
-CheckNumbers(mass);
+int[] massNew = Checkmass(mass);
+massNew = massNew.Where(x => x != 0).ToArray();
+PrintArray(massNew);
+
+
 
